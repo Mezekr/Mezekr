@@ -7,7 +7,7 @@ Now, combining my skills with my professional aspirations, I am excited to work 
 My two years of experience in data processing and machine learning will leverage my expertise in web development.
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [My portfolio](http://mezekr.github.io/portfolio-website)
+* 🖥️  See my portfolio at [My portfolio](https://mezekr.github.io/mezekrweldu)
 * 🚀  I'm currently working on [Mezigram](http://github.com/Mezekr/mezigram)
 * 🧠  I'm learning [Next.js](https://nextjs.org)
 

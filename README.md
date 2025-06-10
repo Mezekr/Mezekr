@@ -8,7 +8,6 @@ My two years of experience in data processing and machine learning will leverage
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [My portfolio](https://mezekr.github.io/mezekrweldu)
-* 🚀  I'm currently working on [Mezigram](http://github.com/Mezekr/mezigram)
 * 🧠  I'm learning [Next.js](https://nextjs.org)
 
 ---
